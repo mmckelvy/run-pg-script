@@ -1,0 +1,21 @@
+{
+  "name": "@mmckelvy/run-pg-script",
+  "version": "1.0.0",
+  "description": "Run sql scripts with psql via Node",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmckelvy/run-pg-script.git"
+  },
+  "keywords": [
+    "pg",
+    "postgres",
+    "psql"
+  ],
+  "author": "Mark McKelvy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmckelvy/run-pg-script/issues"
+  },
+  "homepage": "https://github.com/mmckelvy/run-pg-script#readme"
+}
