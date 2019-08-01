@@ -1,6 +1,6 @@
 {
   "name": "@mmckelvy/run-pg-script",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run sql scripts with psql via Node",
   "main": "index.js",
   "repository": {
